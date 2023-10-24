@@ -17,7 +17,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Please feel free to contact me if you have any questions.
+        Please feel free to contact me if you have any questions .
       # Contact (add or remove contact options as necessary)
       email: taoyisun.ts@gmail.com
       phone: +86 18033328096
